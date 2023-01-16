@@ -1,0 +1,65 @@
+name: weather
+description: A new Flutter project.
+
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  intl: ^0.17.0
+  spritewidget: ^2.0.1
+  stop_watch_timer: ^1.5.0
+  get: ^4.6.5
+  get_storage: ^2.0.3
+  auto_size_text: ^3.0.0
+  google_fonts: ^3.0.1
+  device_preview: ^1.0.0
+  dio: ^4.0.6
+  geolocator: ^9.0.2
+  syncfusion_flutter_calendar: ^20.4.38
+  permission_handler: ^10.2.0
+  dependencies:
+  simple_shadow: ^0.3.0
+  msix: ^3.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+msix_config:
+  display_name: Weather
+  msix_version: 1.0.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Enable generation of localized Strings from arb files.
+  generate: true
+
+  assets:
+    # Add assets from the images directory to the application.
+    - assets/images/
+    - assets/clouds-0.png
+    - assets/clouds-1.png
+    - assets/icon-rain.png
+    - assets/icon-snow.png
+    - assets/icon-sun.png
+    - assets/ray.png
+    - assets/sun.png
+    - assets/weathersprites.json
+    - assets/weathersprites.png
+    - assets/lightningSprite.json
+    - assets/lightningSprite.png
+    - assets/lightning.png
+    - assets/coinIcon.png

@@ -1,0 +1,48 @@
+{"frames": [
+
+{
+	"filename": "1-removebg-preview.png",
+	"frame": {"x":0,"y":0,"w":237,"h":346},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":346},
+	"sourceSize": {"w":237,"h":346},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "2-removebg-preview.png",
+	"frame": {"x":237,"y":0,"w":249,"h":348},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":249,"h":348},
+	"sourceSize": {"w":249,"h":348},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "3-removebg-preview.png",
+	"frame": {"x":486,"y":0,"w":231,"h":346},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":231,"h":346},
+	"sourceSize": {"w":231,"h":346},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "4-removebg-preview.png",
+	"frame": {"x":717,"y":0,"w":250,"h":347},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":347},
+	"sourceSize": {"w":250,"h":347},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "lightningSprite.png",
+	"format": "RGBA8888",
+	"size": {"w":967,"h":348},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1d01c6e9c5142dd8b8548b88fd32f07d:463d4b296cc8ffa90ae4310524898972:b0b59bb8f59ba9328e8599e37dfb4302$"
+}
+}
